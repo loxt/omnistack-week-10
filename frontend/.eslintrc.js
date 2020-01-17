@@ -36,6 +36,9 @@ module.exports = {
       }
     }],
     'no-console': 'off',
-    'import/prefer-default-export': 'off'
+    'no-underscore-dangle': 'off',
+    'react/prop-types': 'off',
+    'import/prefer-default-export': 'off',
+    "camelcase": "off",
   },
 };
