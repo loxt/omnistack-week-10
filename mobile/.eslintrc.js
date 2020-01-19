@@ -38,6 +38,9 @@ module.exports = {
     'react/prop-types': 'off',
     'no-param-reassign': 'off',
     'no-console': 'off',
-    'func-names': 'off'
+    'func-names': 'off',
+    'no-use-before-define': 'off',
+    'no-underscore-dangle': 'off',
+    'camelcase': 'off'
   },
 };
